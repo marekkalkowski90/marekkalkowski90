@@ -3,7 +3,7 @@
 I am a hardworking and well-organized person. My goal is to constantly improve my testing skills. I have the ISTQB FL certificate, which is a confirmation of my knowledge in the field of software testing. I am also developing my programming skills. Feel free to visit my project repositories.
 
 <h3>TOOLS & TECHNOLOGIES </h3>
-- Jira
+- Jira </br>
 - SQL
 - Test Link
 - DevTools
@@ -12,6 +12,10 @@ I am a hardworking and well-organized person. My goal is to constantly improve m
 - HTML
 - CSS
 - C++
+
+
+
+
 
 
 <!--
