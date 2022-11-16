@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Marek
-#### A selftaught future junior software tester.
-I am a hardworking and well organized person. My goal is to constantly improve my testing skills. I have the ISTQB FL certificate, which is a confirmation of my knowledge in the field of software testing. I am also developing my programming skills. Feel free to visit my project repositories.
+#### A self-taught future junior software tester.
+I am a hardworking and well-organized person. My goal is to constantly improve my testing skills. I have the ISTQB FL certificate, which is a confirmation of my knowledge in the field of software testing. I am also developing my programming skills. Feel free to visit my project repositories.
 
 <h3>TOOLS & TECHNOLOGIES </h3>
 - Jira </br>
@@ -13,8 +13,9 @@ I am a hardworking and well organized person. My goal is to constantly improve m
 - CSS </br>
 - C++ </br> </br> </br>
 
-<p align = center
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marek-kalkowski/)  </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marek-kalkowski/) 
+
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/marek.kalkowski.1) 
 
 
 
