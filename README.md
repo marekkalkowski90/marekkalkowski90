@@ -1,8 +1,17 @@
 ### Hi there 👋, my name is Marek
-#### A selftaught future junior software tester.
-I am a hardworking and well organized person. My goal is to constantly improve my testing skills. I have the ISTQB FL certificate, which is a confirmation of my knowledge in the field of software testing. I am also developing my programming skills. Feel free to visit my project repositories.
+#### A self-taught future junior software tester.
+I am a hardworking and well-organized person. My goal is to constantly improve my testing skills. I have the ISTQB FL certificate, which is a confirmation of my knowledge in the field of software testing. I am also developing my programming skills. Feel free to visit my project repositories.
 
-<h2>TEKST</h2>
+<h3>TOOLS & TECHNOLOGIES </h3>
+- Jira
+- SQL
+- Test Link
+- DevTools
+- GIT / Github
+- Postman
+- HTML
+- CSS
+- C++
 
 
 <!--
