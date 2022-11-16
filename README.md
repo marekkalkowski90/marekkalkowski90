@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, my name is Marek
+#### A selftaught future junior software tester.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 <!--
 **marekkalkowski90/marekkalkowski90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
