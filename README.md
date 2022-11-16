@@ -15,7 +15,9 @@ I am a hardworking and well-organized person. My goal is to constantly improve m
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marek-kalkowski/)             [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/marek.kalkowski.1) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marekkalkowski90)](https://github.com/anuraghazra/github-readme-stats)
 
+![Profile views](https://gpvc.arturio.dev/marekkalkowski90)  
 
 
 
