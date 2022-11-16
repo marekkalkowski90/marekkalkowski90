@@ -14,7 +14,7 @@ I am a hardworking and well organized person. My goal is to constantly improve m
 - C++ </br> </br> </br>
 
 <p align = center
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marek-kalkowski/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/marek.kalkowski.1) ></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/marek-kalkowski/)  </p>
 
 
 
